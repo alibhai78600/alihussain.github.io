@@ -30,7 +30,7 @@ The website focuses on **clean UI, responsiveness, and clarity**, making it easy
 
 ## 📸 Preview
 
-> Live Demo: **[Add your website link here]**
+> Live Demo: **https://alibhai78600.github.io/alihussain.github.io/**
 
 ## 📈 Projects Included
 
